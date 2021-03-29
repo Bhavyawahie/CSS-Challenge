@@ -141,6 +141,7 @@ span {
 .actions .btn:hover {
     background: #786450;
     color: #fff;
+    cursor: pointer;
 }
 
 .vertical-div-container {
